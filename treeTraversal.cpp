@@ -64,7 +64,6 @@ void postorder(Node *root)
 }
 int main()
 {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
     Node *root = NULL;
     int n, i = 0;
     cin>>n;
